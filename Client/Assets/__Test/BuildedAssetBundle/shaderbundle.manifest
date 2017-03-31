@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 3827234822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e48989fe6d98840b9973339ef1c929fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7bd39743cce4d37940997ab4332a0cd7
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/$Shader/SDShaders/AlphaBlend.shader
+- Assets/$Shader/SDShaders/uishader/Particle Alpha Blend.shader
+- Assets/$Shader/SDShaders/SelfIllum.shader
+- Assets/$Shader/SDShaders/StaticTree.shader
+- Assets/$Shader/SDShaders/StaticObjectNoLightMap.shader
+- Assets/$Shader/SDShaders/AddOneOne.shader
+- Assets/$Shader/SDShaders/SDAlphaBlended.shader
+- Assets/$Shader/SDShaders/ShaderCommonDiffuse.shader
+- Assets/$Shader/SDShaders/ShaderBubbleDamage.shader
+- Assets/$Shader/SDShaders/DepthOnly.shader
+- Assets/$Shader/SDShaders/SDEnergyBall.shader
+- Assets/$Shader/SDShaders/ShaderCommonBlendDouble.shader
+- Assets/$Shader/SDShaders/StaticObject.shader
+- Assets/$Shader/SDShaders/ShaderPlayerBlend.shader
+- Assets/$Shader/SDShaders/AlphaBlendZTest.shader
+- Assets/$Shader/SDShaders/Sky.shader
+- Assets/$Shader/SDShaders/ShaderAlphaBlendedFront.shader
+- Assets/$Shader/SDShaders/ShaderPlayerDiffuse.shader
+- Assets/$Shader/SDShaders/SDAlphaBlendedTint.shader
+- Assets/$Shader/FXMaker_Mask_Additive_Tint_NoZTest.shader
+- Assets/$Shader/SDShaders/ShaderAdditiveCulleFront.shader
+- Assets/$Shader/SDShaders/SDAdditiveTint.shader
+- Assets/$Shader/FXMaker_Mask Alpha Blended.shader
+- Assets/$Shader/SDShaders/ShaderCommonBlendNoLight.shader
+- Assets/$Shader/FXMaker_Mask Additive.shader
+- Assets/$Shader/Energy Ball.shader
+- Assets/$Shader/SDShaders/ShaderCommonClipDouble.shader
+- Assets/$Shader/SDShaders/uishader/Particle Add.shader
+- Assets/$Shader/FXMaker_Mask Cutout.shader
+- Assets/$Shader/SDShaders/AddOneOneZTest.shader
+- Assets/$Shader/FXMaker_Mask Alpha Blended Tint.shader
+- Assets/$Shader/SDShaders/ShaderCmBlendNoLightDouble.shader
+- Assets/$Shader/FXMaker_Mask Additive Tint.shader
+- Assets/$Shader/Dissolve_TexturCoords.shader
+- Assets/$Shader/SDShaders/SelfIllumNoFog.shader
+- Assets/$Shader/SDShaders/ShaderCommonDiffuseDouble.shader
+- Assets/$Shader/SDShaders/ShaderPlayerDouble.shader
+- Assets/$Shader/SDShaders/Terrain.shader
+- Assets/$Shader/SDShaders/TerrainDecal.shader
+- Assets/$Shader/SDShaders/ShaderCommonBlend.shader
+- Assets/$Shader/Dissolve_WorldCoords.shader
+- Assets/$Shader/SDShaders/ShaderCommonClip.shader
+Dependencies: []

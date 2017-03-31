@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 3421666035
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testherobundle
+      Dependencies:
+        Dependency_0: shaderbundle
+    Info_1:
+      Name: shaderbundle
+      Dependencies: {}

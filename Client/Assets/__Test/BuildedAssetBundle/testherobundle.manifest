@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3480257411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00fad632be81186d5209bd1966569b1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f131d604cde7225bb90269222099b3e4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/__Test/$Model/$base_hero/Materials/base_hero_lower_new.mat
+- Assets/__Test/$Model/$base_hero/base_hero_hands.png
+- Assets/__Test/$Model/$base_hero/base_hero.FBX
+- Assets/__Test/$Model/$base_hero/Materials/base_hero_lower.mat
+- Assets/__Test/$Model/$base_hero/base_hero_lower_new.png
+- Assets/__Test/$Model/$base_hero/base_hero_upper.png
+- Assets/__Test/$Model/$base_hero/Materials/base_hero_upper.mat
+- Assets/__Test/$Model/$base_hero/Materials/base_hero_hands.mat
+- Assets/__Test/$Model/$base_hero/Materials/face_01_hero_diffuse.mat
+Dependencies:
+- E:/UnityProj/Tests/AnyTest/Assets/__Test/BuildedAssetBundle/shaderbundle
